@@ -1,9 +1,10 @@
 ## Huhhhh, Hi ?
 
-Hello there! My name is Jocadbz, but you can call me Joca! I write really dumb scripts (don't look at them) so feel free to take a look at my repos (please don't)!
+Hello there! My name is Jocadbz, but you can call me Joca! I am a 14-year-old dev that write really dumb scripts (don't look at them) so feel free to take a look at my repos (please don't)!
 
 Matrix: ```@epicreiplushie:matrix.org```
 
-I am like, working on a big, BIG project with shell script. I will open a repo soon.
+My big project is ON! Check https://github.com/Jocadbz/shellpkg (Thanks to bodgeMaster for helping me and being a mantainer)
 
-My peersonal site (It's in PT-BR): https://jocadbz.github.io/
+
+My personal site (It's in PT-BR): https://jocadbz.github.io/
