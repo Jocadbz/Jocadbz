@@ -6,5 +6,4 @@ Matrix: ```@epicreiplushie:matrix.org```
 
 My big project is ON! Check https://github.com/Jocadbz/shellpkg (Thanks to bodgeMaster for helping me and being a mantainer)
 
-
-My personal site (It's in PT-BR): https://jocadbz.github.io/
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jocadbz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
