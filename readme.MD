@@ -1,12 +1,21 @@
 ## Huhhhh, Hi ?
 
-Hello there! My name is Jocadbz, but you can call me Joca! I am a 14-year-old dev that write really dumb scripts (don't look at them) so feel free to take a look at my repos (please don't)!
+Hello there! My name is Jocadbz, but you can call me Joca! I am a 14-year-old python dev. I'm currently working at <a target="_self" href="https://www.angloamerican.com/" target="_blank">AngloAmerican</a>.
+Below are some of my projects:
 
-Matrix: ```@epicreiplushie:matrix.org```
+<a target="_self" href="https://github.com/Jocadbz/shellpkg" target="_blank">Shellpkg - </a> A minimal, Highly configurable Package Manager written in python <br>
 
-My big project is ON! Check https://github.com/Jocadbz/shellpkg (Thanks to bodgeMaster for helping me and being a mantainer)
+<a target="_self" href="https://github.com/Jocadbz/solpkg" target="_blank">Solpkg - </a>An wrapper for eopkg package manager, from Solus project<br>
 
-I'm also developing a discord bot... for some reason...
+Here are some ways of contacting me:
+
+E-mail - `madureirajoaquim95@gmail.com`
+
+Discord - `jocadbz#6045`
+
+I write mostly in Python, due to the fact thst is an safe and easy language, but i experiment an bit of C, C++ and Rust sometimes.
+If you are looking for an Rust dev, check my friend <a target="_self" href="https://github.com/S0raWasTaken/" target="_blank">S0ra</a>, he is way more experienced than me.
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jocadbz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   
