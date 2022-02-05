@@ -1,4 +1,4 @@
-## Huhhhh, Hi ?
+## Huhhhh, Hi?
 
 Hello there! My name is Jocadbz, but you can call me Joca! I am a 14-year-old python dev. I'm currently working at <a target="_self" href="https://www.angloamerican.com/" target="_blank">AngloAmerican</a> as an Assistant in installing and repairing computer networks.
 Below are some of my projects:
