@@ -13,6 +13,8 @@ E-mail - `madureirajoaquim95@gmail.com`
 
 Discord - `jocadbz#6045`
 
+Linkedin -  <a target="_self" href="https://www.linkedin.com/in/joaquim-madureira-24700a231/" target="_blank">Joaquim Madureira</a>
+
 I write mostly in Python, due to the fact thst is an safe and easy language, but i experiment an bit of C, C++ and Rust sometimes.
 If you are looking for an Rust dev, check my friend <a target="_self" href="https://github.com/S0raWasTaken/" target="_blank">S0ra</a>, he is way more experienced than me.
 
