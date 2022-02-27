@@ -7,6 +7,8 @@ Below are some of my projects:
 
 <a target="_self" href="https://github.com/Jocadbz/solpkg" target="_blank">Solpkg - </a>An wrapper for eopkg package manager, from Solus project<br>
 
+<a target="_self" href="https://github.com/Jocadbz/pacy" target="_blank">Pacy - </a>An wrapper for Pacman package manager, from Arch Linux<br>
+
 Here are some ways of contacting me:
 
 E-mail - `madureirajoaquim95@gmail.com`
