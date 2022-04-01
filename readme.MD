@@ -20,7 +20,7 @@ I write mostly in Python, due to the fact thst is an safe and easy language, but
 If you are looking for an Rust dev, check my friend <a target="_self" href="https://github.com/S0raWasTaken/" target="_blank">S0ra</a>, he is way more experienced than me.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jocadbz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocadbz&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/KitsuneSemCalda">
+  <img height="150vem" src="https://github-readme-stats.vercel.app/api?username=Jocadbz&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="150hem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocadbz&layout=compact&langs_count=100&theme=nord"/>
 </div>
