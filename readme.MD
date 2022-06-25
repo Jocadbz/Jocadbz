@@ -1,5 +1,5 @@
 <p align="center">
-<a href="About Me(1).png">
-  <img src="About Me(1).png">
+<a href="about_me.v.png">
+  <img src="about_me.v.png">
 </a>
 </p>
