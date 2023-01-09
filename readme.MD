@@ -19,6 +19,10 @@ In this profile, you'll mostly find software that I wrote for personal porpouses
 I'm a 15 years old, male and brazilian developer. My native language is Portuguese, but I also speak English
 fluently.
 
+Right now I'm working at Anglo American, as a I.T Guy. But I'm always open for a new project.
+
+You will mostly find things written in V, my favorite programming language.
+
 
 ## Some extra info
 ### Stats
