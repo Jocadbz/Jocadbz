@@ -1,3 +1,3 @@
-# MOVED TO CODEBERG
+# MOVED TO GITLAB
 I gave up on Github.
-https://codeberg.org/jocadbz
+https://gitlab.com/Jocadbz
