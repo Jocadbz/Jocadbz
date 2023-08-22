@@ -1,3 +1,3 @@
-# MOVED TO GITLAB
-I gave up on Github.
-https://gitlab.com/Jocadbz
+Why are you here?
+There are more decent devs around this place.
+https://jocadbz.neocities.org
