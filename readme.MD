@@ -2,6 +2,7 @@
 I'm Joca. I'm a programmer.
 
 Things I like:
+- Java (I guess)
 - V/Python
 - Retro Tech
 - Games
