@@ -1,10 +1,13 @@
+
 # Hi.
 I'm Joca. I'm a programmer.
 
 Things I like:
-- Java (I guess)
 - V/Python
 - Retro Tech
 - Games
+- Serial Experiments Lain
 
-Feel free to call me on Matrix (@epicreiplushie:matrix.org, and please, don't even QUESTION the username.)
+I am most active on my X account. You can also contact me by email on `joaquimmadureira at protonmail dot com`
+
+*Close the World, Open the nExt*
