@@ -1,1 +1,1 @@
-(lain.gif)[lain.gif]
+![](https://github.com/Jocadbz/Jocadbz/blob/main/lain.gif)
